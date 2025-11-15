@@ -1,5 +1,4 @@
-# Group project work for CSD-310
-# Bacchas Group
+# Bacchus Group work requirements for CSD-310 Group Project
 
 ## Project Milestones
 The intent of this project is to develop a pilot program that implements a solution to a case study. You will be working in groups for this project. Each group will work together to accomplish all aspects of the project. How you divide up the work is up to you. The group, as a whole, needs to come to an agreement on each element of the deliverables.
