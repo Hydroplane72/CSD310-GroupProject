@@ -7,17 +7,54 @@ The deliverables for each milestone should be uploaded to your group discussion 
 ### Milestone #1
 Find your group area and introduce yourself. Include when and how you will be available during the week. Read through the case studies and, as a group, select one for your final project. Create a list of business rules for your case study, including any assumptions you make.  Using those business rules, create an initial ERD to satisfy those rules.  The deliverable this week is a Word document that has your group name at the top, members of the team, which case study was selected, business rules, and an initial ERD.
 
+        The deliverable this week is a Word document that has your group name at the top, members of the team, which case study was selected, business rules, and an initial ERD.
+
+1. Find your group area and introduce yourself.
+   - Include when and how you will be available during the week.
+1. Read through the case studies and, as a group, select one for your final project.
+1. Create a list of business rules for your case study, including any assumptions you make.
+1. Using those business rules, create an initial ERD to satisfy those rules.
+
+
 ### Milestone #2
 At this point, you should have an initial ERD and a set of business rules. Take another look at the ERD, add as many details as needed, including attributes for each table, make any revisions as needed. Once you have your tables in finalized state, write the Python script to create the tables in MySQL, and populate each with at least 6 records (fewer if noted in the case study, for example only three suppliers noted at Bacchus Winery). Write a python script that displays the data in each table, and take a screenshot of the results of the script that displays the data in each table. The deliverables this week are: The deliverables this week are: The Python script(s) and a Word document that has your group name at the top, members of the team, revised ERD, and screenshot(s) of the data displayed from your tables.
+
+        At this point, you should have an initial ERD and a set of business rules. 
+        The deliverables this week are: The Python script(s) and a Word document that has your group name at the top, members of the team, revised ERD, and screenshot(s) of the data displayed from your tables.
+
+1. Take another look at the ERD, add as many details as needed, including attributes for each table, make any revisions as needed.
+1. Once you have your tables in finalized state, write the Python script to create the tables in MySQL, and populate each with at least 6 records (fewer if noted in the case study, for example only three suppliers noted at Bacchus Winery).
+1. Write a python script that displays the data in each table, and take a screenshot of the results of the script that displays the data in each table.
+
 
 ### Milestone #3
 Read through the case study again, and determine what information, retrieved from the tables (basically a report), will be helpful in making the business decisions listed in the case study. There should be a minimum of three reports.  Provide a description of the report, write the Python script to create the report, and take a screenshot of each report (result of query). The deliverables this week are: The Python script(s) and a Word document that has your group name at the top, members of the team, description of the reports, and screenshot(s) of the results of running the queries.
 
+        The deliverables this week are: The Python script(s) and a Word document that has your group name at the top, members of the team, description of the reports, and screenshot(s) of the results of running the queries.
+
+1. Read through the case study again, and determine what information, retrieved from the tables (basically a report), will be helpful in making the business decisions listed in the case study.
+   - There should be a minimum of **three** reports. 
+1. Provide a description of the report, write the Python script to create the report, and take a screenshot of each report (result of query).
+
 ### Milestone #4
 Prepare a presentation of your case study solution. Include a group introduction, a brief description of the case study, the group ERD, a description of the reports you decided to generate, an example of each report result, and any assumptions you made about the case study that informed your design decisions.  Post the presentation to the Project Forum, and respond to at least three other submissions with either comments, suggestions, or corrections.
 
+        Post the presentation to the Project Forum, and respond to at least three other submissions with either comments, suggestions, or corrections.
+
+1. Prepare a presentation of your case study solution.
+    - Include a group introduction
+    - a brief description of the case study
+    - the group ERD
+    - a description of the reports you decided to generate
+    - an example of each report result
+    - any assumptions you made about the case study that informed your design decisions
+
+
 ### Milestone #5
 Make any revisions needed to finalize your presentation, then upload the final presentation to your GitHub account.
+
+1. Make any revisions needed to finalize your presentation
+2. Upload the final presentation to your GitHub account.
 
 ## Module 9
 ### Milestone 1
